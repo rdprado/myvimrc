@@ -1,2 +1,2 @@
 # myvimrc
-improving my vimdc configs
+improving my vimrc configs
